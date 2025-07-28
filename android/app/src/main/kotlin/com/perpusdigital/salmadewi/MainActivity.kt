@@ -1,4 +1,4 @@
-package com.example.myapp
+package com.perpusdigital.salmadewi
 
 import io.flutter.embedding.android.FlutterActivity
 
